@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "http://voyagesaver.com/",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/des-127x154.png",
     "noImageResize": "",
@@ -43,7 +43,8 @@
     "versionFirst": "4.6.5",
     "uniqCompNum": 62,
     "versionPublish": "4.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
