@@ -1247,7 +1247,7 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "<b>Instagram Feed</b>",
+          "title": "<b>Instagram Feed</b><br><b> </b>(Swipe right for more)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
