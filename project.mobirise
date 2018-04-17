@@ -54,7 +54,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "If you are traveler or planning to travel soon, well you have come to the right place. We have made bookings easier than ever. We help you find deals you will never find elsewhere through our trusted and powerful travel search engines.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"c2c2QpbShbg6fP2KCZbkmL_YEVIPbXidPL0aPkRiOkw\" />",
         "footer_custom": "",
         "html_before": ""
       },
