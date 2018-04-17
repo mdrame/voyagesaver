@@ -1,8 +1,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://voyagesaver.com/index.html</loc>
+		<loc>https://voyagesaver.com/index.html</loc>
 	</url>
 	<url>
-		<loc>http://voyagesaver.com/aboutus.html</loc>
+		<loc>https://voyagesaver.com/aboutus.html</loc>
+	</url>
+	<url>
+		<loc>https://voyagesaver.com/searchhotel.html</loc>
+	</url>
+	<url>
+		<loc>https://voyagesaver.com/Searchflight.html</loc>
 	</url>
 </urlset>

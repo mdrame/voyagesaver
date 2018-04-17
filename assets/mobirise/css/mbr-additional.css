@@ -586,7 +586,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
-  display: none;
+  opacity: 0 !important;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1910,7 +1910,7 @@ body {
   color: #767676;
 }
 .cid-qPt08MwIg9 {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
@@ -2075,7 +2075,7 @@ body {
 .cid-qPt1oo2sq3 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qOumDPL6GJ {
   padding-top: 30px;
