@@ -586,7 +586,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1754,7 +1754,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qOq3gKY1vW {
-  background-image: url("../../../assets/images/anete-lusina-609863-unsplash-2000x13300.jpg");
+  background-image: url("../../../assets/images/anete-lusina-609863-unsplash-2000x133000.jpg");
 }
 .cid-qOq3gKY1vW H1 {
   color: #ffffff;
@@ -1787,7 +1787,7 @@ body {
 .cid-qOuu7vyHZz {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/frd-2000x6351.jpg");
+  background-image: url("../../../assets/images/frd-2000x63511.jpg");
 }
 .cid-qOuu7vyHZz h1 {
   color: #616161;
@@ -1806,7 +1806,7 @@ body {
 .cid-qOuu8VvJCo {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/untitled-1-2000x6352.jpg");
+  background-image: url("../../../assets/images/untitled-1-2000x63522.jpg");
 }
 .cid-qOuu8VvJCo .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -1818,7 +1818,7 @@ body {
 .cid-qOuualgk2Q {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/des-2000x6353.jpg");
+  background-image: url("../../../assets/images/des-2000x63533.jpg");
 }
 .cid-qOuualgk2Q h1 {
   color: #616161;
@@ -1981,7 +1981,7 @@ body {
 .cid-qOwXcOLImv {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/tommaso-pecchioli-581840-unsplash-3-2000x30004.jpg");
+  background-image: url("../../../assets/images/tommaso-pecchioli-581840-unsplash-3-2000x300044.jpg");
 }
 .cid-qOwXcOLImv .mbr-section-subtitle {
   color: #efefef;
@@ -2706,7 +2706,7 @@ body {
 .cid-qOMAaPJMSD {
   padding-top: 105px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/gary-lopater-183558-unsplash-3-2000x13335.jpg");
+  background-image: url("../../../assets/images/gary-lopater-183558-unsplash-3-2000x133355.jpg");
 }
 .cid-qOMAaPJMSD .mbr-icofont {
   font-size: 48px;
@@ -3322,7 +3322,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qPtlK5cpQ1 {
-  background-image: url("../../../assets/images/crew-88121-unsplash-2000x1306.jpg");
+  background-image: url("../../../assets/images/crew-88121-unsplash-2000x13066.jpg");
 }
 .cid-qOtcgk4LRh .navbar {
   padding: .5rem 0;
@@ -3706,7 +3706,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qPtr5UEFO8 {
-  background-image: url("../../../assets/images/ewa-2000x1333.jpg");
+  background-image: url("../../../assets/images/ewa-2000x13337.jpg");
 }
 .cid-qOtcgk4LRh .navbar {
   padding: .5rem 0;
@@ -4090,7 +4090,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qPvaqqGtpY {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1620x10808.jpg");
 }
 .cid-qOtcgk4LRh .navbar {
   padding: .5rem 0;
@@ -4474,10 +4474,10 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qPveLpWAeG {
-  background-image: url("../../../assets/images/mbr-1919x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1919x10809.jpg");
 }
 .cid-qPvt4lTRSn {
-  background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
+  background-image: url("../../../assets/images/mbr-3-1620x108010.jpg");
 }
 .cid-qPvt4lTRSn .form-container {
   transition: all .2s;
