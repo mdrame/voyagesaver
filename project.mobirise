@@ -54,8 +54,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "If you are traveler or planning to travel soon, well you have come to the right place. We have made bookings easier than ever. We help you find deals you will never find elsewhere through our trusted and powerful travel search engines.",
-        "header_custom": "<meta name=\"msvalidate.01\" content=\"E381098B45F9E7955F645E674E1D0727\" />\n<meta name=\"google-site-verification\" content=\"c2c2QpbShbg6fP2KCZbkmL_YEVIPbXidPL0aPkRiOkw\" />\n<meta name=\"yandex-verification\" content=\"cca11e12b4bcb7a6\" />",
-        "footer_custom": "",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->\n<meta name=\"msvalidate.01\" content=\"E381098B45F9E7955F645E674E1D0727\" />\n<meta name=\"google-site-verification\" content=\"c2c2QpbShbg6fP2KCZbkmL_YEVIPbXidPL0aPkRiOkw\" />\n<meta name=\"yandex-verification\" content=\"cca11e12b4bcb7a6\" />\n",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
         "html_before": ""
       },
       "components": [
@@ -1410,7 +1410,9 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "About Us",
-        "order": 6
+        "order": 6,
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -2118,7 +2120,9 @@
       "settings": {
         "meta_descr": "Search for the best and cheapest prices through our powerful hotel search engine, it's completely free. If you are on mobile, we highly recommend you to download the app to get the best experience and additional features not available on the web version. Enjoy",
         "title": "Search Hotel",
-        "order": 2
+        "order": 2,
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -2555,7 +2559,9 @@
       "settings": {
         "meta_descr": "Search for the best and cheapest prices through our powerful flight search engine, it's completely free. If you are on mobile, we highly recommend you to download the app to get the best experience and additional features not available on the web version. ",
         "title": "Search Flight",
-        "order": 1
+        "order": 1,
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -2992,7 +2998,9 @@
       "settings": {
         "meta_descr": "Cheap airline tickets at your fingertips. Flight booking made easy. Download the Jetradar app today to start your flight search!",
         "title": "Download Jetradar ",
-        "order": 3
+        "order": 3,
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -3428,7 +3436,9 @@
       "settings": {
         "meta_descr": "Find and compare the best hotel deals from  BOOKING.COM, HOTELS.COM, AGODA, EXPEDIA and 80 online booking agencies more with just one search. Download now and make your life easier!",
         "title": "Download Hotellook",
-        "order": 4
+        "order": 4,
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
@@ -3865,7 +3875,9 @@
       "settings": {
         "meta_descr": "We help you create a beautiful website and distribute the right content at the right time to capture interest and encourage the reader to register in exchange for information with Landing or squeeze page with registration form, Videos grip, Posts grip, various Graphics.",
         "title": "Start Travel Biz",
-        "order": 5
+        "order": 5,
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
+        "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
       "components": [
         {
