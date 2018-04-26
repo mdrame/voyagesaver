@@ -52,7 +52,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Search Hotel Deals",
         "meta_descr": "If you are traveler or planning to travel soon, well you have come to the right place. We have made bookings easier than ever. We help you find deals you will never find elsewhere through our trusted and powerful travel search engines.",
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->\n<meta name=\"msvalidate.01\" content=\"E381098B45F9E7955F645E674E1D0727\" />\n<meta name=\"google-site-verification\" content=\"c2c2QpbShbg6fP2KCZbkmL_YEVIPbXidPL0aPkRiOkw\" />\n<meta name=\"yandex-verification\" content=\"cca11e12b4bcb7a6\" />\n",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
@@ -1246,7 +1246,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7ed4a\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"searchhotel.html\">DOWNLOAD APP NOW</a>\n                    <a class=\"btn btn-secondary\" href=\"searchhotel.html\">SEARCH HOTEL NOW</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#f7ed4a\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"downloadhotellook.html\">DOWNLOAD APP NOW</a>\n                    <a class=\"btn btn-secondary\" href=\"searchhotel.html\">SEARCH HOTEL NOW</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qOMv7hydNY",
           "_anchor": "content8-1a",
           "_protectedParams": [],
@@ -2216,7 +2216,7 @@
     },
     "searchhotel.html": {
       "settings": {
-        "meta_descr": "Search for the best and cheapest prices through our powerful hotel search engine, it's completely free. If you are on mobile, we highly recommend you to download the app to get the best experience and additional features not available on the web version. Enjoy",
+        "meta_descr": "Search for the best and cheapest hotel prices through our powerful search engine, it's completely free. Find  Hotel deals, best hotels, resorts, hostels, apartments,  Guest houses etc.  Compare prices to get best hotel rates.",
         "title": "Search Hotel",
         "order": 2,
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
