@@ -2181,8 +2181,8 @@ body {
 }
 .cid-qOFeoKiwkW {
   padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #f7ed4a;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-qOFeoKiwkW .mbr-section-subtitle {
   color: #767676;
@@ -2237,8 +2237,11 @@ body {
     height: auto !important;
   }
 }
+.cid-qOFeoKiwkW B {
+  color: #ffffff;
+}
 .cid-qOMv7hydNY {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #f7ed4a;
 }
