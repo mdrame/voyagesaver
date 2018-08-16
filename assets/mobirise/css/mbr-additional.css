@@ -1374,12 +1374,12 @@ body {
 }
 .cid-qOtcgk4LRh .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #232323;
   transition: none;
   min-height: 77px;
 }
 .cid-qOtcgk4LRh .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #232323;
 }
 .cid-qOtcgk4LRh a {
   font-style: normal;
@@ -1463,7 +1463,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qOtcgk4LRh .dropdown .dropdown-menu {
-  background: #333333;
+  background: #232323;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2383,7 +2383,7 @@ body {
 .cid-qOMNfOseQF {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 .cid-qOMNfOseQF .row-links {
   width: 100%;
