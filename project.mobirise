@@ -13,15 +13,15 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Cabin",
+        "display1Font": "Hind",
         "display1Size": "2.2",
-        "display2Font": "Cabin",
+        "display2Font": "Hind",
         "display2Size": "1.2",
-        "display5Font": "Cabin",
+        "display5Font": "Hind",
         "display5Size": "1",
-        "display7Font": "Cabin",
+        "display7Font": "Hind",
         "display7Size": "0.9",
-        "display4Font": "Cabin",
+        "display4Font": "Hind",
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -58,6 +58,11 @@
         "css": "'Cabin', sans-serif",
         "name": "Cabin",
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i"
+      },
+      {
+        "css": "'Hind', sans-serif",
+        "name": "Hind",
+        "url": "https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700"
       }
     ],
     "gdpr": ""
