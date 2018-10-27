@@ -4762,6 +4762,12 @@ body {
 .cid-qUgFN1OTXT .card-title {
   text-align: center;
 }
+#custom-html-6n {
+  /* Type valid CSS here */
+}
+#custom-html-6n .my-image {
+  width: 100%;
+}
 .cid-qOMNfOseQF {
   padding-top: 30px;
   padding-bottom: 30px;
