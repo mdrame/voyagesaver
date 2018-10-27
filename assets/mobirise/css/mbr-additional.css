@@ -3000,6 +3000,12 @@ body {
   display: block;
   text-align: center;
 }
+#custom-html-6m {
+  /* Type valid CSS here */
+}
+#custom-html-6m .my-image {
+  width: 100%;
+}
 .cid-qOMGYMi2Xy {
   padding-top: 30px;
   padding-bottom: 30px;

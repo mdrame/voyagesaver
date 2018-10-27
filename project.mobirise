@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Voyage Saver",
-    "currentPage": "aboutus.html",
+    "currentPage": "ourblog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117421072-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117421072-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 237,
+    "uniqCompNum": 239,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -2261,6 +2261,22 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-6m",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script id=\"bx24_form_inline\" data-skip-moving=\"true\">\n        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;\n                (w[b].forms=w[b].forms||[]).push(arguments[0])};\n                if(w[b]['forms']) return;\n                var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());\n                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\n        })(window,document,'https://b24-kr8jtm.bitrix24.com/bitrix/js/crm/form_loader.js','b24form');\n\n        b24form({\"id\":\"1\",\"lang\":\"en\",\"sec\":\"y8gxky\",\"type\":\"inline\"});\n</script>"
+          ]
+        },
+        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -3802,7 +3818,8 @@
       "settings": {
         "meta_descr": "Get inspired by the trendiest news on the web via our stunning, informative and well-written articles. We provide",
         "title": "Voyage Saver Blog",
-        "order": 4
+        "order": 4,
+        "footer_custom": "<script id=\"bx24_form_inline\" data-skip-moving=\"true\">\n        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;\n                (w[b].forms=w[b].forms||[]).push(arguments[0])};\n                if(w[b]['forms']) return;\n                var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());\n                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\n        })(window,document,'https://b24-kr8jtm.bitrix24.com/bitrix/js/crm/form_loader.js','b24form');\n\n        b24form({\"id\":\"1\",\"lang\":\"en\",\"sec\":\"y8gxky\",\"type\":\"inline\"});\n</script>"
       },
       "components": [
         {
