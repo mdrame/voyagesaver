@@ -1,15 +1,15 @@
 {
   "settings": {
     "name": "Voyage Saver",
-    "currentPage": "amazinghoteldeals.html",
+    "currentPage": "findcheaphoteldeals.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#ff2121",
+        "primaryColor": "#de4e04",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
-        "infoColor": "#82786E",
+        "infoColor": "#de6604",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#de4e04",
+        "#de6604",
         "#3e3e3e",
         "#4e4e4e",
         "#2e2e2e",
         "#000000",
-        "#e9e9e9",
-        "#777fa4",
-        "#fa0000"
+        "#e9e9e9"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -47,7 +47,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117421072-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117421072-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 255,
+    "uniqCompNum": 259,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "sitemapSwitcher": "on",
@@ -1551,7 +1551,7 @@
       "settings": {
         "meta_descr": "We specialize in helping people find discounted hotel rates in over 3,500 cities around the world through our trusted partner hotel search engine. We have helped hundred of thousands  travelers worldwide save money on their bookings.",
         "title": "About Us",
-        "order": 9,
+        "order": 10,
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
@@ -2372,7 +2372,7 @@
       "settings": {
         "meta_descr": "Search for the best and cheapest hotel prices through our powerful search engine, it's completely free. Find  Hotel deals, best hotels, resorts, hostels, apartments,  Guest houses etc.  Compare prices to get best hotel rates.",
         "title": "Search Hotel",
-        "order": 6,
+        "order": 7,
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
@@ -2811,7 +2811,7 @@
       "settings": {
         "meta_descr": "Find and compare the best hotel deals from  BOOKING.COM, HOTELS.COM, AGODA, EXPEDIA and 80 online booking agencies more with just one search. Download now and make your life easier!",
         "title": "The Best Hotel App",
-        "order": 7,
+        "order": 8,
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
@@ -3250,7 +3250,7 @@
       "settings": {
         "meta_descr": "We help you create a beautiful website and distribute the right content at the right time to capture interest and encourage the reader to register in exchange for information with Landing or squeeze page with registration form, Videos grip, Posts grip, various Graphics.",
         "title": "Let's collab",
-        "order": 8,
+        "order": 9,
         "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-WRB8FHN');</script>\n<!-- End Google Tag Manager -->",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WRB8FHN\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
       },
@@ -3821,7 +3821,7 @@
       "settings": {
         "meta_descr": "Get inspired by the trendiest news on the web via our stunning, informative and well-written articles. We provide",
         "title": "Voyage Saver Blog",
-        "order": 5,
+        "order": 6,
         "footer_custom": ""
       },
       "components": [
@@ -3973,7 +3973,7 @@
       "settings": {
         "meta_descr": "This post will break down 4 simple and powerful ways to not remain invisible on Instagram and get more exposure which means more engagement...",
         "title": "4 Powerful Ways To Grow Your Instagram For Free",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -5616,7 +5616,7 @@
       "settings": {
         "meta_descr": "Clientivity is a hotel booking software platform that empowers members to save and earn both time and money on personal, group and corporate travel. The platform is free, easy to use, and takes 2 minutes to setup which means you have nothing to loose...",
         "title": "How To Make Money Online With Clientivity",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -6800,7 +6800,7 @@
       "settings": {
         "meta_descr": "Let us share with you 4 tips that we've been using that made our Instagram page looks more attractive , helped us crush the game and grow considerably our audience .",
         "title": "How To Build a Successful Instagram Account",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -8239,11 +8239,97 @@
         }
       ]
     },
-    "amazinghoteldeals.html": {
+    "termsandprivacy.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Terms and Privacy",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            }
+          },
+          "_name": "content5",
+          "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#de6604\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\">Terms and Privacy</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Article header with background image and parallax effect\n                </h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7Hxe3xpAr",
+          "_anchor": "content5-75",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            },
+            ".section-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"52\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#de6604\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>This Privacy Policy and terms apply to your access and use of all products and services that are made available by and via High Trend, or its affiliates (the “Voyage Saver Services” or “Services”) through our website including but not limited to www.voyagesaver.com (collectively, the “Site”).\n<div>This Privacy Policy describes the information that we gather from you, how we use and disclose your information, and the steps we take to protect your information. By using the Services, you consent to the privacy practices described in this policy.\n</div><div>\n</div><div><b><br></b></div><div><b>Personal Information</b>\n</div><div>\n</div><div>When you use the Services, you may provide and we may collect information about you or that can be used to identify you, including your name, e-mail address, mailing address, mobile phone number, age, gender, date of birth. For example, you may provide us with Personal Information when you sign up for our Newsletters, when you fill out forms or fields on the Site, when you participate in online surveys, and when you contact us or request information about us, this Site and our Service (whether by email or other means).\n</div><div>The foregoing information is referred to as “Personal Information.” \n</div><div>\n</div><div>\n</div><div><b><br></b></div><div><b>Cookies Information\n</b></div><div>\n</div><div>When you use the Services, we may send one or more Cookies (which are small text files containing a string of alphanumeric characters) to your computer or mobile device. We may use both Session Cookies and Persistent Cookies. A Session Cookie disappears after you close your browser. A Persistent Cookie remains after you close your browser and may be used by your browser on subsequent visits to the Services. Persistent Cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your Cookie settings. If you delete, or choose not to accept, Cookies from the Services, you may not be able to utilize the features of the Services to their fullest potential.\n</div><div>\n</div><div>\n</div><div><b><br></b></div><div><b>Automatically Collected Information\n</b></div><div>\n</div><div>When you visit the Site, use the Services, or open an email from Voyage Saver, we may automatically receive and record certain information from your computer, web browser and/or mobile device, including your IP address or other device address or ID, web browser and/or device type, hardware and software settings and configurations, the web pages or sites that you visit just before or just after visiting the Site, the pages you view on the Site, your actions on the Site, and the dates and times that you visit, access, or use the Services. When you use the Site on a mobile device, we may also collect the physical location of your device by, for example, using satellite, cell phone tower or wireless local area network signals.\n</div><div>\n</div><div>\n</div><div><b><br></b></div><div><b>Third Party Web Beacons and Third Party Buttons\n</b></div><div>\n</div><div>We may implement third party advertising or other content on the Site that may use clear gifs or other forms of web beacons, which allow the third party content provider to read and write Cookies to your web browser in connection with your viewing of the third party content on the Site. Additionally, we may implement third party buttons (such as Facebook “like” or “share” buttons) that may allow a third party to collect information about you through their browser Cookies, even when you do not interact with the button.\n</div><div>A number of different targeting and advertising programs may be used on this Site, including without limitation, Google Analytics. We allow third parties, including business partners, advertising networks, analytics providers, and other advertising service providers to collect information about your online activities on the Site and across your browsers and devices using cookies, web beacons, mobile advertising identifiers and other technologies. These third parties may use this information to display advertisements on our Site and elsewhere online, and across your browsers and devices, tailored to your interests and preferences. Information collected through web beacons, buttons, and similar technologies is collected directly by third parties, and we are not responsible for the privacy practices of these third parties. The information collected by these third parties in this manner is subject to that third party’s own privacy policies.\n</div><div>\n</div><div>\n</div><div><b><br></b></div><div><b>How we use the information we collect:\n</b></div><div>\n</div><div>Your information is an integral part of our operations, and we use it in a variety of ways in providing the Services and operating our business.\n</div><div>For example:  We use the information that you provide to operate, maintain, enhance and provide all of the features of the Services and to enable third parties to provide additional services to you. \n</div><div>We use the information that you provide to understand and analyze the usages trends and preferences of our users across different devices, to improve the Services, to create new features and functionality, and to improve fraud detection and information security.\n</div><div>We may use your e-mail address or other Personal Information (a) to contact you for administrative purposes such as customer service, (b) to address intellectual property, right of privacy or defamation issues related to content you have posted on the Services, and/or (c) to send you promotional materials, offers, and/or messages related to the Services and the activities of third parties we work with. Generally, you can opt-out of receiving promotional communications, through links provided in the messages, by updating your account preferences through the Services\n</div><div>We may use Cookies Information and Automatically Collected Information to: (a) personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Services; (b) provide customized advertisements, content, and information across your devices; (c) monitor and analyze the effectiveness of Services and third party marketing activities; (d) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (e) track your entries, submissions, and status in any promotions or other activities.\n</div><div>\n</div><div><b style=\"font-size: 1rem;\"><br></b></div><div><b style=\"font-size: 1rem;\">Disclaimer</b><br></div><div>We are a participant in the TRAVELPAYOUTS, an affiliate advertising program designed to provide a means for us to earn fees by linking to TRAVELPAYOUTS.COM and affiliated sites. We only connect you to deals finder websites, we do not directly sell anything. \n</div><div>\n</div><div><b><br></b></div><div><b>Our Contact Information:\n</b></div><div>Please contact us with any questions or comments about this Privacy Policy, your personally identifiable information, our use and disclosure practices, or your consent choices <a href=\"aboutus.html#form1-66\">HERE</a></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "r7HxgtcYJo",
+          "_anchor": "content9-76",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "footer6",
+          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">© Copyright 2018 Voyage Saver - All Rights Reserved<br><a href=\"termsandprivacy.html\" class=\"text-info\">Terms and Privacy</a><br><br>This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.<br>We are a participant in the TravelPayouts Associates Program, an affiliate advertising program designed to provide a means for us to earn fees.<br>\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7HuoSoPGR",
+          "_anchor": "footer6-74",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": true,
+          "_params": {}
+        }
+      ]
+    },
+    "findcheaphoteldeals.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Amazing Hotel Deals",
-        "order": 1
+        "title": "Find Cheap Hotel Deals",
+        "order": 2
       },
       "components": [
         {
@@ -8257,7 +8343,7 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#ff2121"
+              "color": "#de4e04"
             },
             ".mbr-section-subtitle": {
               "color": "#2e2e2e"
@@ -8362,7 +8448,7 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"180\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/gh-856x647.jpg\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"><b>THE BEST OF ALL</b></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">This travel search engine is better than direct search on Booking.com and other big booking websites because it compares room prices from 100s different hotel booking services with just one click., enabling you to pick the most affordable offers that are not even listed on Booking.com and other popular sites. The price for one and the same room can differ depending on the website you are using. Price comparison enables finding the best offer. Also, sometimes the same room can have a different availability status in another system. It searches both the largest booking websites and small local systems.&nbsp;allows you to see all the prices in reservation systems, compare all offers and choose the best. It operates with and shows the final room pricing. No additional taxes and hidden fees. Also&nbsp;All booking services are thoroughly inspected by their Security Department. All agencies have been checked.</p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">LET ME TRY IT NOW&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"180\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/gh-856x647.jpg\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\"><b>THE BEST OF ALL</b></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">This travel search engine is better than direct search on Booking.com and other big booking websites because it compares room prices from 100s different hotel booking services with just one click, enabling you to pick the most affordable offers that are not even listed on Booking.com and other popular sites. The price for one and the same room can differ depending on the website you are using. Price comparison enables finding the best offer. Also, sometimes the same room can have a different availability status in another system. It searches both the largest booking websites and small local systems.&nbsp;allows you to see all the prices in reservation systems, compare all offers and choose the best. It operates with and shows the final room pricing. No additional taxes and hidden fees. Also&nbsp;All booking services are thoroughly inspected by their Security Department. All agencies have been checked. Hotel booking has never been that easier. Don't miss out this opportunity!&nbsp;</p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">LET ME TRY IT NOW&nbsp;</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "r7FbD0VFZR",
           "_anchor": "header3-6r",
           "_protectedParams": [],
@@ -8385,6 +8471,26 @@
           "_JSplaceholders": [
             "<script id=\"bx24_form_inline\" data-skip-moving=\"true\">\n        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;\n                (w[b].forms=w[b].forms||[]).push(arguments[0])};\n                if(w[b]['forms']) return;\n                var s=d.createElement('script');s.async=1;s.src=u+'?'+(1*new Date());\n                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);\n        })(window,document,'https://b24-kr8jtm.bitrix24.com/bitrix/js/crm/form_loader.js','b24form');\n\n        b24form({\"id\":\"1\",\"lang\":\"en\",\"sec\":\"y8gxky\",\"type\":\"inline\"});\n</script>"
           ]
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "footer6",
+          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">© Copyright 2018 Voyage Saver - All Rights Reserved<br><a href=\"termsandprivacy.html\" class=\"text-info\">Terms and Privacy</a><br><br>This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.<br>We are a participant in the TravelPayouts Associates Program, an affiliate advertising program designed to provide a means for us to earn fees.<br>\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r7HuoSoPGR",
+          "_anchor": "footer6-73",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": true,
+          "_params": {}
         }
       ]
     }
