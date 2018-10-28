@@ -7691,6 +7691,67 @@ body {
 #custom-html-6x .my-image {
   width: 100%;
 }
+.cid-r7IPbHLTAE {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/gades-photography-540989-unsplash-2000x1335.jpg");
+}
+.cid-r7IPbHLTAE .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r7IPbHLTAE .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-r7IPbHLTAE .mbr-text {
+  color: #767676;
+}
+.cid-r7IPbHLTAE .mbr-author-desc {
+  display: block;
+  color: #767676;
+}
+.cid-r7IPbHLTAE .mbr-author-name {
+  color: #767676;
+}
+.cid-r7IPbHLTAE .mbr-testimonial .panel-item {
+  background-color: #ffffff;
+}
+.cid-r7IPbHLTAE .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
+}
+.cid-r7IPbHLTAE .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-r7IPbHLTAE .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-r7IPbHLTAE .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-r7IPbHLTAE .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-r7IPbHLTAE B {
+  color: #ffffff;
+}
 .cid-r7HuoSoPGR {
   padding-top: 30px;
   padding-bottom: 30px;
